@@ -1,3 +1,4 @@
+import cv2 as cv
 # Create a white board of size 512X512
 img = np.ones((512,512,3),np.uint8)*255
 #create Green color square
